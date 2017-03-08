@@ -1,0 +1,19 @@
+{
+  "name": "the_ennead",
+  "version": "1.0.0",
+  "description": "The website for the upcoming novel The Ennead: Saga of the Liths.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottdmccord/ennead.git"
+  },
+  "author": "Scott McCord",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottdmccord/ennead/issues"
+  },
+  "homepage": "https://github.com/scottdmccord/ennead#readme"
+}
