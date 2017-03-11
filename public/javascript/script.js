@@ -1,0 +1,1 @@
+console.log('javasript linked');

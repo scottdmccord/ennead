@@ -1,9 +1,20 @@
+html {
+  height: 100%;
+}
+
 body {
   margin: 0;
+  height: 100%;
 }
 
 .landing-modal {
+  display: block;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
   text-align: center;
   background-color: maroon;
-  height: 100vh;
 }
